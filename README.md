@@ -7,6 +7,8 @@ My new programming language
 4. Enjoy!!
 
 Commands:
+
+
 Start point declare-
 void main{} {
 
@@ -19,6 +21,7 @@ ex) void main{} {
   
 }
 
+
 string declare-
 
   #text#
@@ -29,6 +32,7 @@ variable declare-
 var name = value
 
 ex) var a = 1 or var b = #hello?# or var c = 1 + 2 * 3 / (2 - 1)
+
 
 output-
 
@@ -41,6 +45,7 @@ input-
 import var
 
 ex) import var a
+
 
 if statement(not fully functional-only ouputs condition is true or false)-
 
@@ -55,6 +60,7 @@ ex) if var a == var b [
   display #true#
   
 ]
+
 
 Code example-
 
