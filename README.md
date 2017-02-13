@@ -27,7 +27,7 @@ Start point declare-
 
 string declare-
 
-     #text#
+    #text#
   
     ex) 
 
@@ -35,7 +35,7 @@ string declare-
 
 variable declare-
 
-     var name = value
+    var name = value
 
     ex) 
 
@@ -44,7 +44,7 @@ variable declare-
 
 output-
 
-     display text
+    display text
 
     ex) 
 
@@ -52,7 +52,7 @@ output-
 
 input-
 
-     import var
+    import var
 
     ex) 
 
