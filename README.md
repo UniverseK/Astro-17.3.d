@@ -12,46 +12,48 @@ Commands:
 Start point declare-
 void main{} {
 
- code
+    code
  
 }
 ex) void main{} {
 
-  display #hello?#
+    display #hello?#
   
 }
 
 
 string declare-
 
-  #text#
+    #text#
   
 ex) #hello?#
 
 variable declare-
-var name = value
+
+    var name = value
 
 ex) var a = 1 or var b = #hello?# or var c = 1 + 2 * 3 / (2 - 1)
 
 
 output-
 
-display text
+    display text
 
 ex) display #hello?# or display var a
 
 input-
 
-import var
+    import var
 
 ex) import var a
 
 
 if statement (not fully functional-only ouputs condition is true or false) -
 
+
 if variable or number == variable or number [
 
- code
+    code
  
 ]
 
@@ -66,9 +68,9 @@ Code example-
 
 void main{} {
 
-  var a = #me#
-  import var a
-  display var a
+    var a = #me#
+    import var a
+    display var a
   
 }
 
