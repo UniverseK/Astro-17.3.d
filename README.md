@@ -1,4 +1,4 @@
-# Astro-1.3
+# Astro-17.3.d
 My new programming language
 
 1. Create file with ".ast" extension
