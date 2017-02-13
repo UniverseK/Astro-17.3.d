@@ -47,7 +47,7 @@ import var
 ex) import var a
 
 
-if statement(not fully functional-only ouputs condition is true or false)-
+if statement (not fully functional-only ouputs condition is true or false) -
 
 if variable or number == variable or number [
 
