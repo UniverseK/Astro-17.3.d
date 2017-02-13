@@ -76,7 +76,7 @@ if statement (not fully functional-only ouputs condition is true or false) -
   
     ]
 
-
+////////////////////////////////////////////////////////////////////////////
 Code example-
 
     void main{} {
