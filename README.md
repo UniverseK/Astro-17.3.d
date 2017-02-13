@@ -16,7 +16,7 @@ Start point declare-
      code
  
     }
-ex) 
+    ex) 
 
     void main{} {
 
@@ -29,7 +29,7 @@ string declare-
 
      #text#
   
-ex) 
+    ex) 
 
     #hello?#
 
@@ -37,7 +37,7 @@ variable declare-
 
      var name = value
 
-ex) 
+    ex) 
 
     var a = 1 or var b = #hello?# or var c = 1 + 2 * 3 / (2 - 1)
 
@@ -46,7 +46,7 @@ output-
 
      display text
 
-ex) 
+    ex) 
 
     display #hello?# or display var a
 
@@ -54,7 +54,7 @@ input-
 
      import var
 
-ex) 
+    ex) 
 
     import var a
 
@@ -68,7 +68,7 @@ if statement (not fully functional-only ouputs condition is true or false) -
  
     ]
 
-ex) 
+    ex) 
 
     if var a == var b [
 
